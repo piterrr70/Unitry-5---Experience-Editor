@@ -6,6 +6,9 @@ This is Experience Editor based on Scriptable Objects Example be Unity.
 ### Features:
 * Random Generator (is set to 107 items on list).
 
+### Ovewview
+
+![alt text](https://i.imgur.com/nN4n5SV.png)
 
 
 ### Editing:
