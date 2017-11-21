@@ -3,12 +3,12 @@
 
 This is Experience Editor based on Scriptable Objects Example be Unity.
 
-###Features:.
-
+### Features:
 * Random Generator (is set to 107 items on list).
 
 
-_
+
+### Editing:
 You can change count of generated items in:
 ```
 void GenerateDefault()
