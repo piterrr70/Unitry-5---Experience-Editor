@@ -1,0 +1,335 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63d835bf8bb1a2042ba183c6f071ab15, type: 3}
+  m_Name: Slavic Warrior
+  m_EditorClassIdentifier: 
+  expirienceList:
+  - level: 1
+    health: 120
+    energy: 90
+  - level: 2
+    health: 167
+    energy: 131
+  - level: 3
+    health: 212
+    energy: 170
+  - level: 4
+    health: 261
+    energy: 210
+  - level: 5
+    health: 308
+    energy: 251
+  - level: 6
+    health: 359
+    energy: 295
+  - level: 7
+    health: 404
+    energy: 334
+  - level: 8
+    health: 450
+    energy: 379
+  - level: 9
+    health: 496
+    energy: 424
+  - level: 10
+    health: 550
+    energy: 462
+  - level: 11
+    health: 600
+    energy: 507
+  - level: 12
+    health: 645
+    energy: 548
+  - level: 13
+    health: 697
+    energy: 586
+  - level: 14
+    health: 744
+    energy: 624
+  - level: 15
+    health: 789
+    energy: 664
+  - level: 16
+    health: 843
+    energy: 705
+  - level: 17
+    health: 889
+    energy: 747
+  - level: 18
+    health: 936
+    energy: 791
+  - level: 19
+    health: 990
+    energy: 834
+  - level: 20
+    health: 1042
+    energy: 872
+  - level: 21
+    health: 1093
+    energy: 914
+  - level: 22
+    health: 1138
+    energy: 958
+  - level: 23
+    health: 1184
+    energy: 1002
+  - level: 24
+    health: 1239
+    energy: 1040
+  - level: 25
+    health: 1294
+    energy: 1080
+  - level: 26
+    health: 1348
+    energy: 1124
+  - level: 27
+    health: 1402
+    energy: 1169
+  - level: 28
+    health: 1447
+    energy: 1213
+  - level: 29
+    health: 1492
+    energy: 1254
+  - level: 30
+    health: 1546
+    energy: 1294
+  - level: 31
+    health: 1598
+    energy: 1332
+  - level: 32
+    health: 1649
+    energy: 1377
+  - level: 33
+    health: 1703
+    energy: 1419
+  - level: 34
+    health: 1749
+    energy: 1459
+  - level: 35
+    health: 1799
+    energy: 1502
+  - level: 36
+    health: 1849
+    energy: 1544
+  - level: 37
+    health: 1903
+    energy: 1586
+  - level: 38
+    health: 1952
+    energy: 1628
+  - level: 39
+    health: 2001
+    energy: 1672
+  - level: 40
+    health: 2048
+    energy: 1711
+  - level: 41
+    health: 2098
+    energy: 1755
+  - level: 42
+    health: 2146
+    energy: 1796
+  - level: 43
+    health: 2193
+    energy: 1837
+  - level: 44
+    health: 2245
+    energy: 1877
+  - level: 45
+    health: 2299
+    energy: 1919
+  - level: 46
+    health: 2344
+    energy: 1961
+  - level: 47
+    health: 2392
+    energy: 2001
+  - level: 48
+    health: 2437
+    energy: 2040
+  - level: 49
+    health: 2482
+    energy: 2084
+  - level: 50
+    health: 2534
+    energy: 2123
+  - level: 51
+    health: 2586
+    energy: 2166
+  - level: 52
+    health: 2640
+    energy: 2204
+  - level: 53
+    health: 2686
+    energy: 2244
+  - level: 54
+    health: 2737
+    energy: 2283
+  - level: 55
+    health: 2784
+    energy: 2325
+  - level: 56
+    health: 2835
+    energy: 2369
+  - level: 57
+    health: 2881
+    energy: 2413
+  - level: 58
+    health: 2935
+    energy: 2456
+  - level: 59
+    health: 2981
+    energy: 2494
+  - level: 60
+    health: 3026
+    energy: 2538
+  - level: 61
+    health: 3074
+    energy: 2580
+  - level: 62
+    health: 3124
+    energy: 2621
+  - level: 63
+    health: 3176
+    energy: 2659
+  - level: 64
+    health: 3224
+    energy: 2704
+  - level: 65
+    health: 3271
+    energy: 2746
+  - level: 66
+    health: 3318
+    energy: 2784
+  - level: 67
+    health: 3368
+    energy: 2829
+  - level: 68
+    health: 3422
+    energy: 2872
+  - level: 69
+    health: 3471
+    energy: 2913
+  - level: 70
+    health: 3524
+    energy: 2953
+  - level: 71
+    health: 3578
+    energy: 2996
+  - level: 72
+    health: 3626
+    energy: 3035
+  - level: 73
+    health: 3677
+    energy: 3080
+  - level: 74
+    health: 3727
+    energy: 3122
+  - level: 75
+    health: 3778
+    energy: 3162
+  - level: 76
+    health: 3823
+    energy: 3203
+  - level: 77
+    health: 3868
+    energy: 3243
+  - level: 78
+    health: 3917
+    energy: 3281
+  - level: 79
+    health: 3972
+    energy: 3322
+  - level: 80
+    health: 4025
+    energy: 3364
+  - level: 81
+    health: 4078
+    energy: 3405
+  - level: 82
+    health: 4123
+    energy: 3446
+  - level: 83
+    health: 4172
+    energy: 3489
+  - level: 84
+    health: 4219
+    energy: 3532
+  - level: 85
+    health: 4271
+    energy: 3574
+  - level: 86
+    health: 4323
+    energy: 3614
+  - level: 87
+    health: 4371
+    energy: 3652
+  - level: 88
+    health: 4426
+    energy: 3695
+  - level: 89
+    health: 4479
+    energy: 3736
+  - level: 90
+    health: 4527
+    energy: 3780
+  - level: 91
+    health: 4579
+    energy: 3821
+  - level: 92
+    health: 4627
+    energy: 3866
+  - level: 93
+    health: 4681
+    energy: 3911
+  - level: 94
+    health: 4727
+    energy: 3952
+  - level: 95
+    health: 4781
+    energy: 3996
+  - level: 96
+    health: 4831
+    energy: 4035
+  - level: 97
+    health: 4877
+    energy: 4076
+  - level: 98
+    health: 4927
+    energy: 4121
+  - level: 99
+    health: 4972
+    energy: 4166
+  - level: 100
+    health: 5018
+    energy: 4210
+  - level: 101
+    health: 5068
+    energy: 4252
+  - level: 102
+    health: 5113
+    energy: 4292
+  - level: 103
+    health: 5160
+    energy: 4337
+  - level: 104
+    health: 5213
+    energy: 4379
+  - level: 105
+    health: 5268
+    energy: 4421
+  - level: 106
+    health: 5322
+    energy: 4459
+  - level: 107
+    health: 5377
+    energy: 4499
